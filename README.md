@@ -24,7 +24,8 @@ All the given Functional and Non-functional requirements are satisfied.
 
 OUTPUT SCREENSHOT:
 
-blob:https://web.whatsapp.com/4d9e1fc0-8335-4e4d-a9b9-1b987b3fe91a
+![suji](https://user-images.githubusercontent.com/76789908/103377390-4cc79500-4b05-11eb-964b-4aa819316ebf.jpeg)
+
 
 
 
