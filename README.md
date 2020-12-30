@@ -22,5 +22,9 @@ delete member function is defined with single parameter key. It deletes the key-
 
 All the given Functional and Non-functional requirements are satisfied.
 
+OUTPUT SCREENSHOT:
+
+blob:https://web.whatsapp.com/4d9e1fc0-8335-4e4d-a9b9-1b987b3fe91a
+
 
 
