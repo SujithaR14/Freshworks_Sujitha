@@ -32,7 +32,7 @@ class suji
     void create(string key,string value,long long timestamp=0)
     {
         if(DataBase.find(key)!=DataBase.end())  // Checks whether the given key is already exits or not . If so then it cannot be created so it throws an error message. 
-            cerr<<"This key "<<key<<" is already exist\n";
+            cerr<<"This key "<<key<<" already exists\n";
         else   
         {
             if(key.length()<=32) // Checks whether the given key string has less than or equal to 32 characters. if exceeds then it throws an erro message.
@@ -77,7 +77,7 @@ class suji
                return "Time to live property of the key : "+key+" has been expired";
         }
         else
-            return "The key " +key +" does'nt exist in the database";
+            return "The key " +key +" doesn't exist in the database";
     }
 
     // _delete member function is defined with single parameter key. It deletes the key-value entry in our temporary(DataBase) storage and permanent(File) storage. 
@@ -102,7 +102,7 @@ class suji
                cerr<<"Time to live property of the key :"<<key<<" has been expired"<<endl;
         }
         else
-          cerr<<"The key "<<key<<" does'nt exist in the database"<<endl;
+          cerr<<"The key "<<key<<" doesn't exist in the database"<<endl;
     }
 };
 
