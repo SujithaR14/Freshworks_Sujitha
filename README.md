@@ -24,7 +24,7 @@ All the given Functional and Non-functional requirements are satisfied.
 
 OUTPUT SCREENSHOT:
 
-![sujioutput](https://user-images.githubusercontent.com/76789908/103378146-5fdb6480-4b07-11eb-8170-71eab27174e3.PNG)
+![Sujitha_Output](https://user-images.githubusercontent.com/76789908/103401640-b086a800-4b6f-11eb-822f-9c3cd50c46e4.PNG)
 
 
 
